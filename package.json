@@ -9,10 +9,9 @@
   },
   "devDependencies": {
     "@nuxt/content": "^2.2.1",
+    "@vueuse/core": "^9.5.0",
+    "@vueuse/nuxt": "^9.5.0",
     "nuxt": "3.0.0-rc.13"
   },
-  "dependencies": {
-    "bootstrap": "^5.2.2",
-    "bootstrap-icons": "^1.10.2"
-  }
+  "dependencies": {}
 }
