@@ -13,7 +13,7 @@
         </div>
         <div class="col-md-8">
           <div class="card-body">
-            <h5 class="card-title">材料</h5>
+            <h5 class="card-title">{{data.zairyo}}</h5>
             <div class="card-text">
               <ul>
                 <li v-for="item in data.material">{{ item.text }}</li>

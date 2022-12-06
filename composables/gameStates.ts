@@ -1,4 +1,4 @@
-export const useRecipe = () => useState('recipe', () => {
+export const useGame = () => useState('game', () => {
     return {
       title: "美味しさNo.1！KFC風フライドチキン",
       description:
