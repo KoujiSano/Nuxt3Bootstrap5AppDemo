@@ -1,3 +1,18 @@
+# 目標
+
+Nuxt3 Vue3 Bootstrap5を利用したWEBフロントエンド開発
+
+## 今すぐに達成すべき課題
+
+今取り組んでいることをここに記載する
+
+## 今後解決すべき課題
+
+- わからないこと
+- 疑問点など
+
+
+
 # Nuxt 3 Minimal Starter
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
