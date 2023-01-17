@@ -8,6 +8,7 @@
 </template>
 <script setup>
  const state = useGameState()
- const game = useGame();
- game.Init();
+ const init = useGameInit()
+ init()
+ 
 </script>
