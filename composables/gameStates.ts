@@ -1,7 +1,7 @@
 export const useGameState = () => useState('game', () => {
   return {
     messeges: [
-
+      ""
     ],
     hero: {
       name: "",

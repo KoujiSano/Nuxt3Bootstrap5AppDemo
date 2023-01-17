@@ -1,15 +1,7 @@
 <template>
   <div class="container">
     <div class="row"> 
-      <div class="col">
-        Column
-      </div>
-      <div class="col">
-        Column
-      </div>
-      <div class="col">
-        Column
-      </div>
+      <div class="col" v-for="item in state.messeges">{{ item }}</div>
     </div>
   </div>
 
