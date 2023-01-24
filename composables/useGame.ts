@@ -1,7 +1,9 @@
-const state = useGameState()
+const store = useGameStore()
 
 export const useGameInit = () => {
-    state.value.messeges.push("初期化されました");
+    
+    store.addMessage("初期化されました")
+
 }
 
 export const useGameBattle = () => {
