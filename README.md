@@ -11,8 +11,6 @@ Nuxt3 Vue3 Bootstrap5を利用したWEBフロントエンド開発
 - わからないこと
 - 疑問点など
 
-
-
 # Nuxt 3 Minimal Starter
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
