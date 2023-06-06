@@ -1,0 +1,1 @@
+import{k as o,l as c,o as e,U as s}from"./entry.c97e7e77.js";const t={},n={class:"container"},a=s("div",{class:"row"},[s("div",{class:"col"}," Column "),s("div",{class:"col"}," Column "),s("div",{class:"col"}," Column ")],-1),l=[a];function r(_,d){return e(),c("div",n,l)}const m=o(t,[["render",r]]);export{m as default};
