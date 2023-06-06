@@ -11,8 +11,7 @@
     "@nuxt/content": "^2.2.1",
     "@vueuse/core": "^9.5.0",
     "@vueuse/nuxt": "^9.5.0",
-    "nuxt": "^3.0.0",
+    "nuxt": "^3.5.3",
     "sass": "^1.57.1"
-  },
-  "dependencies": {}
+  }
 }
