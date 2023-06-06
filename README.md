@@ -49,3 +49,7 @@ npm run preview
 ```
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
+
+## Deploy
+
+<https://github.com/lucpotage/nuxt-github-pages>
