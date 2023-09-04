@@ -15,5 +15,9 @@
     "gh-pages": "^5.0.0",
     "nuxt": "^3.7.0",
     "sass": "^1.57.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.1",
+    "usebootstrap": "^0.1.38"
   }
 }
