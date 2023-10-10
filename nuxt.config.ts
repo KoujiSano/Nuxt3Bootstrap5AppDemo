@@ -18,7 +18,8 @@ export default defineNuxtConfig({
     modules: [
         '@vueuse/nuxt',
         '@nuxt/content',
-        'usebootstrap'
+        'usebootstrap',
+        'nuxt-icon'
     ],
     css: [
         "bootstrap/scss/bootstrap.scss"
